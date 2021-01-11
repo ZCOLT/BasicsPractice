@@ -86,3 +86,12 @@
         width: 200px;
         margin-right: 40px;
     }
+    a:link {
+        color: red;
+    }
+    a:visited {
+        color: green;
+    }
+    a:hover {
+        color: aqua;
+    }
