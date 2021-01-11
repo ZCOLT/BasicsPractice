@@ -5,6 +5,11 @@
       width: 1024px;
       margin: 0 auto;
   }
+
+  article {
+      width: 1024px;
+      margin: auto;
+  }
   /* * Add an `id` called "main-bio" for the first `section` tag. */
   #main-bio {
 
