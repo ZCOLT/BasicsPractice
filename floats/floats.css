@@ -27,7 +27,7 @@ section {
 #left {
   float: left;
   width: 33.3%;
-  background: #4ea4f5;
+  background: #666;
   color: white;
   /* padding: 16px; */
   font-weight: bold;
@@ -36,7 +36,7 @@ section {
 #middle {
   width: 33.3%;
   float: left;
-  background: #53af50;
+  background: #888;
   color: white;
   /* padding: 16px; */
   font-weight: bold;
@@ -46,7 +46,7 @@ section {
 #right {
   float: left;
   width: 33.3%;
-  background: #f25150;
+  background: #666;
   color: white;
   /* padding: 16px; */
   font-weight: bold;
